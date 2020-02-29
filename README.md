@@ -1,2 +1,3 @@
-# testing_gitJenkins: My first jenkins-github hook - web
+# testing_gitJenkins: My first jenkins-github hook
 This is a repository for github and Jenkins Integration
+New edit #2
